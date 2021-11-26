@@ -1,0 +1,5 @@
+Credentials cache: API:E2F78A98-5D53-4DC3-BD3A-012EF7F24D7B
+        Principal: thardy@42ADEL.ORG.AU
+
+  Issued                Expires               Principal
+Jun 23 17:33:21 2021  Jun 24 03:33:21 2021  krbtgt/42ADEL.ORG.AU@42ADEL.ORG.AU
