@@ -1,8 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-	bare = true
-	ignorecase = true
-	precomposeunicode = true
-[remote "origin"]
-	url = git@vogsphere.42adel.org.au:vogsphere/intra-uuid-de918ee0-23bf-49ee-8f19-651a76028e6d-3615890
